@@ -1,0 +1,6 @@
+C:\Users\HUAWEI\source\repos\OREchecking\bin\Debug\OREchecking.dll
+C:\Users\HUAWEI\source\repos\OREchecking\bin\Debug\OREchecking.pdb
+C:\Users\HUAWEI\source\repos\OREchecking\obj\Debug\OREchecking.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\OREchecking\obj\Debug\OREchecking.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\OREchecking\obj\Debug\OREchecking.dll
+C:\Users\HUAWEI\source\repos\OREchecking\obj\Debug\OREchecking.pdb

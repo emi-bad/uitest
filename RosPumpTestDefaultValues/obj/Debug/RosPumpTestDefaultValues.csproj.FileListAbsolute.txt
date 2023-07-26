@@ -1,0 +1,6 @@
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\bin\Debug\RosPumpTestDefaultValues.dll
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\bin\Debug\RosPumpTestDefaultValues.pdb
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\obj\Debug\RosPumpTestDefaultValues.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\obj\Debug\RosPumpTestDefaultValues.dll
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\obj\Debug\RosPumpTestDefaultValues.pdb
+C:\Users\HUAWEI\source\repos\RosPumpTestDefaultValues\obj\Debug\RosPumpTestDefaultValues.csproj.AssemblyReference.cache
